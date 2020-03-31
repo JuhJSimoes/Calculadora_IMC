@@ -1,6 +1,6 @@
-# Projeto Flutter Contador
+# Projeto Flutter Calculadora IMC
 
-Novo projeito de Flutter iniciante - Contador.
+Novo projeito de Flutter iniciante - Calculadora IMC.
 
 ## Getting Started
 
